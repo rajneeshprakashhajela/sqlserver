@@ -26,3 +26,4 @@ we will have to create new database server
 ![image](https://user-images.githubusercontent.com/43515480/236632032-aa4f79cf-86fe-444c-a281-679714c9e507.png)
 ![image](https://user-images.githubusercontent.com/43515480/236632110-ee0867cb-6308-4ee0-a389-d24f9c50369e.png)
 ![image](https://user-images.githubusercontent.com/43515480/236632120-f7eeab2f-a5a8-4966-bd10-d168cef18e5d.png)
+![image](https://user-images.githubusercontent.com/43515480/236632441-216021ba-c3b9-450e-96d4-ceefb37b4645.png)
