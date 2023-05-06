@@ -17,3 +17,12 @@ user redirect - microsoft suggest
 ![image](https://user-images.githubusercontent.com/43515480/236630683-9299022a-a827-462a-b88b-82fed31b560e.png)
 ![image](https://user-images.githubusercontent.com/43515480/236630790-e9bb628a-ae45-4c1d-96d4-175914fa3a8a.png)
 ![image](https://user-images.githubusercontent.com/43515480/236631514-511a9f33-e631-49ab-af28-80194a16e307.png)
+
+Failover
+![image](https://user-images.githubusercontent.com/43515480/236631858-dd12d980-6f94-41db-85da-709c27b95229.png)
+
+we will have to create new database server
+![image](https://user-images.githubusercontent.com/43515480/236631926-cdfe5d0d-0eb1-4c1b-86ac-a86080f11f55.png)
+![image](https://user-images.githubusercontent.com/43515480/236632032-aa4f79cf-86fe-444c-a281-679714c9e507.png)
+![image](https://user-images.githubusercontent.com/43515480/236632110-ee0867cb-6308-4ee0-a389-d24f9c50369e.png)
+![image](https://user-images.githubusercontent.com/43515480/236632120-f7eeab2f-a5a8-4966-bd10-d168cef18e5d.png)
