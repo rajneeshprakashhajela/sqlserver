@@ -27,3 +27,15 @@ we will have to create new database server
 ![image](https://user-images.githubusercontent.com/43515480/236632110-ee0867cb-6308-4ee0-a389-d24f9c50369e.png)
 ![image](https://user-images.githubusercontent.com/43515480/236632120-f7eeab2f-a5a8-4966-bd10-d168cef18e5d.png)
 ![image](https://user-images.githubusercontent.com/43515480/236632441-216021ba-c3b9-450e-96d4-ceefb37b4645.png)
+
+backup east to west region
+![image](https://user-images.githubusercontent.com/43515480/236635022-d930df9e-0eaf-438b-a286-df07dfd316d8.png)
+
+deleted database
+
+![image](https://user-images.githubusercontent.com/43515480/236635072-902d567e-d55c-4593-881c-d103581db7ad.png)
+
+click on deleted database
+![image](https://user-images.githubusercontent.com/43515480/236635098-c201b914-9b56-4d13-a268-3e932b40a0ba.png)
+
+
